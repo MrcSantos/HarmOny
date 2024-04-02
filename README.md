@@ -5,7 +5,7 @@ Turns harm into harmony
 This project is completely a Work In Progress. 
 It is not guaranteed that it will get to v1.0.0. 
 With that being said, everyone is free to make PRs, clone, fork or open issues. 
-Donations are well accepted! (|PayPal|[https://www.paypal.me/MrcSantos]) 
+Donations are well accepted! ([PayPal](https://www.paypal.me/MrcSantos))
 
 ------------
 
